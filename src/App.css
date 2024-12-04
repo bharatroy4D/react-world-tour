@@ -1,0 +1,16 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+.countryStyle{
+  border: 2px solid saddlebrown;
+  margin: 15px;  
+  padding: 15px;
+  border-radius: 16px;
+}
+.grid{
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+}

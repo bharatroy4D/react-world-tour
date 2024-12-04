@@ -1,0 +1,29 @@
+[
+      {
+        "id": 1,
+        "name": "Warrior",
+        "img": "https://example.com/images/warrior.png"
+      },
+      {
+        "id": 2,
+        "name": "Archer",
+        "img": "https://example.com/images/archer.png"
+      },
+      {
+        "id": 3,
+        "name": "Mage",
+        "img": "https://example.com/images/mage.png"
+      },
+      {
+        "id": 4,
+        "name": "Beast",
+        "img": "https://example.com/images/beast.png"
+      },
+      {
+        "id": 5,
+        "name": "Necromancer",
+        "img": "https://example.com/images/necromancer.png"
+      }
+    ]
+  
+  
